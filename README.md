@@ -8,9 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young-Min-Kim&show_icons=true&theme=radical)
 
 
-##
-##
-##
 ---
 ## 수행 프로젝트
 - **IoT 스마트 에너지 메니저 (졸업작품, 4인 1팀)**
