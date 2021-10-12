@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=YoungMin-Kim&fontSize=80&fontColor=black)
-![header](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![header](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  ![header](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) ![header](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![header](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) 
+
+
+
+![header](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![header](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  ![header](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) ![header](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![header](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+
 ![header](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![header](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) ![header](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![header](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) ![header](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white) 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young-Min-Kim&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
