@@ -28,6 +28,7 @@
   - 기술 스택:  Spring Framework Legacy Project, MySql, GitHub
   - 역할:  스키마 수정 및 DB 설계, 관리자 페이지 구현
   - GitHub:  https://github.com/Young-Min-Kim/shopPro
+
 ![화면 캡처 2021-11-06 140702](https://user-images.githubusercontent.com/51106074/140598698-f0d9ab7c-1e90-4e36-ab7c-3708ea43b90c.png)
 
 
@@ -36,6 +37,7 @@
   - 기술 스택:  Spring Framework Legacy Project, MySql
   - 기능 구현: 희망과목 수강 신청 CRUD 구현, AOP, Transaction 적용
   - GitHub:  https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/Spring%20Project
+  - 
 ![화면 캡처 2021-11-06 140828](https://user-images.githubusercontent.com/51106074/140598736-16fcbdab-ee9c-4034-b23c-10d8e5eeac33.png)
 
 
@@ -44,6 +46,7 @@
   - 기술 스택:  JSP bootstrap, MySql
   - 역할:  To Do List 기능 구현, DB CURD 구현
   - GitHub:  https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/JSP
+
 ![화면 캡처 2021-11-06 141104](https://user-images.githubusercontent.com/51106074/140598778-3d85c818-4547-4a01-8a0e-ba891984a2c7.png)
 
 - **Android Kotlin Project (3인 1팀)**
@@ -51,12 +54,14 @@
   - 기술 스택:  Kotlin
   - 역할:  ui 및  프론트 엔드 구현
   - https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/Android%20Kotlin
+
 ![화면 캡처 2021-11-06 141223](https://user-images.githubusercontent.com/51106074/140598823-9584d77b-8b5c-427b-a2ab-02a9044a8547.png) ![화면 캡처 2021-11-06 141248](https://user-images.githubusercontent.com/51106074/140598824-74b930fc-faa1-4a1c-bbf1-5ff3b3eb8a8a.png)
 
 - **객체지향 분석설계(4인 1팀)**
   - 주제:  에너지 매니저 시스템 분석 및 설계
   - 기술 스택:  StarUML
   - 역할:  요구사항 분석, 설계, 단계별 uml 다이어그램 작성
+
 ![화면 캡처 2021-11-06 141945](https://user-images.githubusercontent.com/51106074/140598984-cc19f1da-a4eb-41c4-b68c-5ed140d0c4e0.png)
 
 
@@ -65,4 +70,5 @@
   - 기술 스택:  Python Google Colab
   - 역할:  각 컬럼의 내용과 의미 파악 및 기술, 칼럼들 간의 관계도 구성
   - GitHub:  https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EA%B3%84
+
 ![화면 캡처 2021-11-06 142215](https://user-images.githubusercontent.com/51106074/140599007-10f84401-871e-497d-8b2e-623b23a85fdb.png)
