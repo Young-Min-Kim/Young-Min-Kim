@@ -18,12 +18,13 @@
   - 주제:  스마트 플러그 및 전력 센서로 수집한 전력 데이터를 분석 및 출력해주는 에너지 매니저 시스템 구현
   - 기술 스택:  Flutter, MySql, Python, GitHub
   - 역할:  Flutter App 개발, 전력 데이터 전처리
-  - <src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  - 코드:  https://github.com/mugju/kpu_energy
 
 - **쇼핑몰 사이트 구현(6인 1팀)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
   - 기술 스택:  Spring Framework Legacy Project, MySql, GitHub
   - 역할:  스키마 수정 및 DB 설계, 관리자 페이지 구현
+  - 코드:  
 
 - **수강신청 희망과목 집계 프로그램(1인)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
