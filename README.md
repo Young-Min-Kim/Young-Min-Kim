@@ -22,6 +22,7 @@
 <img src="https://user-images.githubusercontent.com/25499386/133418608-d2eb73d0-c832-491c-b11f-18959346fb88.png" width="400">
 <img src="https://user-images.githubusercontent.com/25499386/133418718-89d35bd4-5469-406d-99a2-9f44b952f844.png" width="400">
 
+---
 
 - **쇼핑몰 사이트 구현(6인 1팀)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
@@ -31,6 +32,7 @@
 
 ![화면 캡처 2021-11-06 140702](https://user-images.githubusercontent.com/51106074/140598698-f0d9ab7c-1e90-4e36-ab7c-3708ea43b90c.png)
 
+---
 
 - **수강신청 희망과목 집계 프로그램(1인)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
@@ -40,6 +42,7 @@
   - 
 ![화면 캡처 2021-11-06 140828](https://user-images.githubusercontent.com/51106074/140598736-16fcbdab-ee9c-4034-b23c-10d8e5eeac33.png)
 
+---
 
 - **JSP bootstrap (4인 1팀)**
   - 주제:  협업 및 To Do List 사이트
@@ -49,6 +52,8 @@
 
 ![화면 캡처 2021-11-06 141104](https://user-images.githubusercontent.com/51106074/140598778-3d85c818-4547-4a01-8a0e-ba891984a2c7.png)
 
+---
+
 - **Android Kotlin Project (3인 1팀)**
   - 주제:  잠근 화면에서 구동하는 영단어 문제/오답노트 앱
   - 기술 스택:  Kotlin
@@ -57,6 +62,8 @@
 
 ![화면 캡처 2021-11-06 141223](https://user-images.githubusercontent.com/51106074/140598823-9584d77b-8b5c-427b-a2ab-02a9044a8547.png) ![화면 캡처 2021-11-06 141248](https://user-images.githubusercontent.com/51106074/140598824-74b930fc-faa1-4a1c-bbf1-5ff3b3eb8a8a.png)
 
+---
+
 - **객체지향 분석설계(4인 1팀)**
   - 주제:  에너지 매니저 시스템 분석 및 설계
   - 기술 스택:  StarUML
@@ -64,6 +71,7 @@
 
 ![화면 캡처 2021-11-06 141945](https://user-images.githubusercontent.com/51106074/140598984-cc19f1da-a4eb-41c4-b68c-5ed140d0c4e0.png)
 
+---
 
 - **Python 데이터 통계(2인 1팀)**
   - 주제:  컴퓨터 하드웨어 관련 관계 및 정보 분석
