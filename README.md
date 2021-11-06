@@ -68,6 +68,7 @@
   - 주제:  에너지 매니저 시스템 분석 및 설계
   - 기술 스택:  StarUML
   - 역할:  요구사항 분석, 설계, 단계별 uml 다이어그램 작성
+  - GitHub:  https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84
 
 ![화면 캡처 2021-11-06 141945](https://user-images.githubusercontent.com/51106074/140598984-cc19f1da-a4eb-41c4-b68c-5ed140d0c4e0.png)
 
