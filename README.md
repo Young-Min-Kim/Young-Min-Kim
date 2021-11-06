@@ -39,7 +39,7 @@
   - 기술 스택:  Spring Framework Legacy Project, MySql
   - 기능 구현: 희망과목 수강 신청 CRUD 구현, AOP, Transaction 적용
   - GitHub:  https://github.com/Young-Min-Kim/KPU_MajorClass/tree/main/Spring%20Project
-  - 
+
 ![화면 캡처 2021-11-06 140828](https://user-images.githubusercontent.com/51106074/140598736-16fcbdab-ee9c-4034-b23c-10d8e5eeac33.png)
 
 ---
