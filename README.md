@@ -18,7 +18,7 @@
   - 주제:  스마트 플러그 및 전력 센서로 수집한 전력 데이터를 분석 및 출력해주는 에너지 매니저 시스템 구현
   - 기술 스택:  Flutter, MySql, Python, GitHub
   - 역할:  Flutter App 개발, 전력 데이터 전처리
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  - <src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 - **쇼핑몰 사이트 구현(6인 1팀)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
