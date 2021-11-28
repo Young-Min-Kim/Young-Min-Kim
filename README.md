@@ -24,6 +24,16 @@
 
 ---
 
+- **플러터 주식 예측 차트 출력 앱 (1인)**
+  - 주제:  파이썬 머신러닝을 활용해 예측한 데이터를 플러터 차트 앱을 통해 출력
+  - 기술 스택:  Flutter, Python, Google Colab, Json, Flask,  
+  - 역할:  Flutter App 개발, 전력 데이터 전처리
+  - GitHub:  https://github.com/Young-Min-Kim/flutter_app/tree/main/stock_machine_learning_forcast_app
+
+![화면 캡처 2021-11-28 224651](https://user-images.githubusercontent.com/51106074/143771112-9f686107-ad08-442a-b521-4f2a245e37ff.png)
+
+---
+
 - **쇼핑몰 사이트 구현(6인 1팀)**
   - 주제:  전반적인 쇼핑몰 사이트 기능 요구사항 분석, 설계, 구현의 단계적 개발
   - 기술 스택:  Spring Framework Legacy Project, MySql, GitHub
